@@ -6,4 +6,4 @@ Instructions for the BedazzLED Wearables workshop at Teardown 2026
 
 ## Microphone Soldering:
 
- <img src="assembly/images/soldermic1.jpg" width="300"> <br><br>  <img src="assembly/images/soldermic2.jpg" width="300">
+ <img src="assembly/soldermic1.jpg" width="300"> <br><br>  <img src="assembly/soldermic2.jpg" width="300">
